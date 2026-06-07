@@ -188,18 +188,6 @@ http://localhost:8000/docs
 
 ## 📸 Screenshots
 
-Add screenshots of:
-
-* Home Page
-* Upload Samples Page
-* Train Model Page
-* Prediction Page
-* Docker Deployment
-
----
-
-## 📸 Screenshots
-
 ### Home Page
 ![Home](screenshots/home.png)
 

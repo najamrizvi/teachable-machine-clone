@@ -198,6 +198,20 @@ Add screenshots of:
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Upload Samples
+![Upload](screenshots/upload.png)
+
+### Train Model
+![Train](screenshots/train.png)
+
+### Prediction
+![Predict](screenshots/predict.png)
+
 ## 👨‍💻 Author
 
 **Najam Rizvi**

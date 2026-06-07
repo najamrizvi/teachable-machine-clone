@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+
+torch==2.0.1
+torchvision==0.15.2
+
+numpy==1.26.4
+
+pillow
+scikit-learn
+joblib
+opencv-python
+pandas

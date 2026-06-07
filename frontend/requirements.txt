@@ -1,0 +1,6 @@
+streamlit
+requests
+pillow
+numpy
+opencv-python
+streamlit-webrtc
